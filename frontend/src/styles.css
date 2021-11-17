@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red{
+    color: red;
+}
+.blue{
+    color: royalblue;
+}
+.gree{
+    color: rgb(17, 150, 0);
+}
+.bggreen{
+    background-color: rgb(17, 150, 0);
+    color: white;
+}
+.bgred{
+    background-color: rgb(207, 4, 4);
+    color: white;
+}
+.bgblue{
+    background-color: rgb(40, 107, 207);
+    color: white;
+}
+.v-middle{
+    vertical-align: middle;
+}
